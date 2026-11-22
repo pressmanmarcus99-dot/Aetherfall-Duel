@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.json","include":["src/core","src/weapons/types.ts","src/weapons/definitions.ts","src/armor","src/combat","src/movement","src/ai","src/arenas/spec.ts","src/input/actions.ts","scripts","src/net/protocol.ts","src/net/client.ts"]}

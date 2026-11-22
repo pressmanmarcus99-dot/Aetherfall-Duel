@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.json","compilerOptions":{"paths":{"three":["./scripts/stubs/three.d.ts"],"three/examples/jsm/loaders/GLTFLoader.js":["./scripts/stubs/gltf.d.ts"]}},"include":["src"]}
